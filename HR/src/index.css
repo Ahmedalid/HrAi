@@ -1,0 +1,209 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Tajawal", sans-serif;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  overflow-x: hidden;
+  /* direction: rtl; */
+}
+
+
+link , a{
+  text-decoration: none !important;
+  list-style: none;
+  
+}
+.hoverNav{
+  padding: 0px 1px 0px 1px;
+  cursor: pointer;
+
+}
+.hoverNav:hover , .hoverNav:hover                                                                                                                                                                                      {
+  background-color: #259995 !important;
+  color: white !important;
+  /* padding: 8px 9px 5px 4px; */
+  border-radius: 8px;
+  cursor: pointer;
+}.hoverNav:hover a{
+  color: white !important;
+}
+.bg-color{
+  background-color: #259995 !important;
+
+}
+.d-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.border-radius{
+  background-color: #259995!important;
+  color: #fff!important;
+}
+.mt-50{
+  margin-top: 170px !important;
+}
+.border-defalte{
+  border:  1px solid #337a78 !important;
+}
+.buttonbtn{
+  background-color: #337a78 !important;
+  height: 30px;
+  border-radius: 8px;
+}
+.text-color{
+  color: #337a78;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.w-74{
+  width: 75px !important;
+}.select-container {
+  position: relative;
+  cursor: pointer;
+}
+
+.select-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.select-icon {
+  position: absolute;
+  left: 10px;
+  font-size: 14px;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--bs-body-color);
+  appearance: none;
+  background-color: var(--bs-body-bg);
+  background-clip: padding-box;
+  border: var(--bs-border-width) solid #337a78 !important;
+  border-radius: 1px !important;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.box-shado{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.font-12{
+  font-size: 13px;
+}
+.btn-class{
+  border: none;
+  padding: 2px 11px;
+  border-radius: 7px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  color: var(--bs-nav-pills-link-active-color) !important;
+  background-color: #259995 !important;
+}
+.nav-link{
+  color: #259995 !important;
+  font-weight: bold !important;
+
+}
+.bg-dang{
+  background-color: #f10a0a61;
+  border-radius: 10px;
+}
+.w-120{
+  width: 70px;
+}
+.w-icone{
+  width: 27px !important;
+  height: 25px !important;
+  background-color: white;
+  color: #f10a0a61 !important;
+  border-radius: 5px;
+}
+.border-r{
+  border-radius: 15px;
+}
+.btn-cv{
+  background-color: #259995!important;
+  color: white!important;
+  border-radius: 10px;
+}
+.text-green{
+  color: #259995;
+  /* font-weight: bold; */
+  font-size: 20px;
+}
+.w-img{
+  width:50px ;
+  height: 50px;
+  border-radius: 10px;
+}
+/* Add styles for the active button */
+.active-button {
+  background-color: #3498db; /* Your desired background color */
+  color: #ffffff; /* Your desired text color */
+}
+
+/* Add styles for the inactive button */
+.hoverNav {
+  background-color: #ffffff; /* Your desired background color */
+  color: #333333; /* Your desired text color */
+}
+.active-button {
+  background-color: #259995 !important;
+  color: white !important;
+  /* padding: 8px 9px 5px 4px; */
+  border-radius: 8px;
+  cursor: pointer;
+  /* color: yellow; */
+  
+}
+.font-16{
+  font-size: 16px;
+}
+.font-12{
+  font-size: 12px;
+}
+.font-15{
+  font-size: 15px !important;
+}
+.font-14{
+  font-size: 14px !important;
+}
+.position{
+  position: absolute;
+  top: 89px;
+  right: 54px;
+}
+.react-datepicker-wrapper , .react-datepicker__input-container{
+  width: 100% !important;
+}
+.boxShado{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+  background-color: #259995 !important;
+  color: white !important;
+}
+.w-88{
+  width: 88% !important;
+}
+.h-155{
+  height: 155px !important;
+}
+.btn-hoverlogin:hover{
+  background-color: black !important;
+}
+.bg-dangerr{
+  background-color: #ec464670 !important;
+  border-radius: 15px;
+  font-weight: bold;
+}
